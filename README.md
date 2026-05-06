@@ -4,7 +4,9 @@ A self-hosted Solana wallet tracker. Pings a Telegram bot the moment one of your
 
 It's basically a free version of [Cielo Finance](https://cielo.finance), built so I could track as many wallets as I want, with whatever filters I want, without paying a monthly fee or hitting any caps.
 
-> **Status:** I'm running this on a private VPS for my own use — there's no public demo. The repo is here so you can read the code, clone it, plug in your own Helius / Telegram / Postgres / Redis credentials, and run your own copy. Setup steps are below.
+[![Trackoor demo](docs/trackoor.gif)](https://www.loom.com/share/abfd58c0345648ceb6754a3f69b2dc5a)
+
+> **Status:** Running on a private VPS for my own use. The GIF above links to a [walkthrough on Loom](https://www.loom.com/share/abfd58c0345648ceb6754a3f69b2dc5a). Repo is here so you can read the code, clone it, plug in your own Helius / Telegram / Postgres / Redis credentials, and run your own copy. Setup steps are below.
 
 ---
 
